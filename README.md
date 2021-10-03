@@ -64,11 +64,11 @@ We may calculate a disparity map for each picture in relation to the other image
 5. Compute the Depth Map
 6. Find Obstacles in 3D using 2D-to-3D converted bounding boxes
 ![](output/result.png)
-![](3dCV.png)
+![](output/3dCV.png)
 7. Use an obstacle detection algorithm and mix it with the depth map to get the distances of each obstacle.
 8. Point-Cloud reconstruction from depth
-![](Images/Reconstruction.mp4)
-
+![](Images/Reconstruction.gif)
+![](ouput/out.gif)
 
 
 * Refer for [stereo matching using deep learning](https://www.hindawi.com/journals/cin/2020/8562323/)
