@@ -73,5 +73,6 @@ We may calculate a disparity map for each picture in relation to the other image
 
 * Refer for [stereo matching using deep learning](https://www.hindawi.com/journals/cin/2020/8562323/)
 * [YOLOv4 weights](https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view)
-* [Psuedo-LIDAR](https://arxiv.org/abs/1812.07179)  
+* [Psuedo-LIDAR official paper](https://arxiv.org/abs/1812.07179)  
 
+##### Special thanks to Jeremy Cohen and Udacity Self-Driving Nanodegree for implementation inspiration.
