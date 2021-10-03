@@ -67,8 +67,8 @@ We may calculate a disparity map for each picture in relation to the other image
 ![](output/3dCV.png)
 7. Use an obstacle detection algorithm and mix it with the depth map to get the distances of each obstacle.
 8. Point-Cloud reconstruction from depth
-![](Images/Reconstruction.gif)
-![](ouput/out.gif)
+![](Images/Reconsrtuction.gif)
+![](output/out.gif)
 
 
 * Refer for [stereo matching using deep learning](https://www.hindawi.com/journals/cin/2020/8562323/)
